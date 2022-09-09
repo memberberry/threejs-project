@@ -1,8 +1,8 @@
-#What I've learned
+# What I've learned
 
 ###### 09.09.22
 u can use .modules.css which are modules like this:
-example.modules.css
+#example.modules.css
 .red {
     color: red;
 }
