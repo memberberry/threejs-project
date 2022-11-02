@@ -7,10 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-vite-project/node_modules
-vite-project/dist
-vite-project/dist-ssr
-vite-project/*.local
+
 
 # Editor directories and files
 .vscode/*
@@ -22,3 +19,6 @@ vite-project/*.local
 *.njsproj
 *.sln
 *.sw?
+
+/node_modules
+package-lock.json
